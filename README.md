@@ -11,17 +11,17 @@ This project demonstrates the implementation of Simple and Multiple Linear Regre
 
 ### 📌 Workflow
 
-1. Data Preprocessing
-    Handled categorical features using one-hot encoding
-    Checked for missing values and ensured all inputs were numeric
-2. Model Building
-    Split the dataset into training and testing sets
-    Trained a Linear Regression model using sklearn.linear_model.LinearRegression
-3. Model Evaluation
+1. Data Preprocessing:
+    Handled categorical features using one-hot encoding.
+    Checked for missing values and ensured all inputs were numeric.
+2. Model Building:
+    Split the dataset into training and testing sets.
+    Trained a Linear Regression model using sklearn.linear_model.LinearRegression.
+3. Model Evaluation:
   Evaluated using:
-    Mean Absolute Error (MAE)
-    Mean Squared Error (MSE)
-    R² Score
-4. Model Interpretation
-    Displayed model coefficients and intercept to understand feature influence
-    Visualized the relationship between actual and predicted prices
+    1.Mean Absolute Error (MAE)
+    2.Mean Squared Error (MSE)
+    3.R² Score
+4. Model Interpretation:
+    Displayed model coefficients and intercept to understand feature influence.
+    Visualized the relationship between actual and predicted prices.
